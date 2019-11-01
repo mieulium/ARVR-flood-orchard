@@ -15,6 +15,7 @@
       <a-asset-item id="tree" src="./images/tree.obj"></a-asset-item>
       <a-asset-item id="cityModel" src="https://cdn.aframe.io/test-models/models/virtualcity/VC.gltf" scale="0.1 0.1 0.1"></a-asset-item>
       <a-asset-item id="building" src="./images/build.obj"></a-asset-item>
+      <a-asset-item id="bush" src="./images/bush.gltf"></a-asset-item>
     </a-assets>
     
     
@@ -53,6 +54,13 @@
         material="color: orange"
         >
       </a-entity> 
+      <a-entity obj-model="obj: #bush;"
+        src="#bush"
+        scale="0.001 0.001 0.001"
+        material="color: green"
+        >
+      </a-entity>
+
       <a-entity obj-model="obj: #tree;"
         src="#tree-obj"
         material="color: green"
