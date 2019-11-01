@@ -5,4 +5,4 @@ The rubber duckie is now enjoying the only chance to explore orchard road.
 
 [How to contribute](docs/contribute.md)
 
-[See the duckie](https://arynchoong.github.io/ARVR-flood-orchard/)
+[See the duckie](https://mieulium.github.io/ARVR-flood-orchard/)
